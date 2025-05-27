@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "nome": "Notebook UltraSlim",
+      "marca": "CompUtil",
+      "preco": 5500.5,
+      "descricao": "Notebook ultrafino e leve, ideal para produtividade e portabilidade, com SSD de 1TB e 16GB RAM.",
+      "emEstoque": false,
+      "dataCadastro": "2025-02-20T11:30:00.000Z",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "nome": "Fone de Ouvido Sem Fio Z",
+      "marca": "AudioMax",
+      "preco": 399,
+      "descricao": "Fone de ouvido com cancelamento de ruído ativo, bateria de longa duração e qualidade de som superior.",
+      "emEstoque": true,
+      "dataCadastro": "2025-03-10T14:15:00.000Z"
+    }
+  ]
+}
